@@ -1,4 +1,4 @@
-FROM zhhhy/lampp
+FROM zhhhy/lamp
 
 
 ADD ./day1/ /var/www/html
